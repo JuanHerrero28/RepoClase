@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hola es nuestra prueba hola hola
 juan juan
+=======
+hola es nuestra prueba hola hola manola las bolas otra modificacion
+>>>>>>> d737a24205ecc07a5c6bdaace5c19461f8c817a2

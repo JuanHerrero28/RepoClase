@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola es nuestra jaja prueba hola hola
+=======
+hola es nuestra prueba hola hola adwedawdwadass
+>>>>>>> d737a24205ecc07a5c6bdaace5c19461f8c817a2
